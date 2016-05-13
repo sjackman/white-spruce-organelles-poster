@@ -3,9 +3,11 @@ title: "Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annota
 Author: [Shaun D. Jackman, Rene L. Warren, Ewan A. Gibb, Benjamin P. Vandervalk, Hamid Mohamadi, Justin Chu, Anthony Raymond, Stephen Pleasance, Robin Coope, Mark R. Wildung, Carol E. Ritland, Jean Bousquet, Steven J. M. Jones, Joerg Bohlmann, and Inanc Birol]
 ---
 
+\newpage
+
 # Whole Genome Assembly
 
-![Figure 1](images/cov-gc.png)
+![Figure 1](images/cov-gc.png){width="11in"}
 
 **Fig. 1**---A distinct group of 6 Mbp, putative organellar sequences, are seen by plotting k-mer coverage vs GC content of the contigs of the whole genome assembly
 
@@ -27,11 +29,11 @@ Author: [Shaun D. Jackman, Rene L. Warren, Ewan A. Gibb, Benjamin P. Vandervalk,
 + The organellar sequences are separated from the assembly by classifying the sequences using their length, depth of coverage and GC content
 + The assembled organellar genomes were annotated for their coding genes, ribosomal RNA (rRNA), and transfer RNA (tRNA)
 
---------------------------------------------------------------------------------
+\newpage
 
 # Plastid
 
-![Figure 2](images/plastid-annotation.png)
+![Figure 2](images/plastid-annotation.png){width="11in"}
 
 **Fig. 2**---The complete plastid genome of white spruce. The PG29 white spruce chloroplast genome was annotated using MAKER and plotted using OrganellarGenomeDRAW (Lohse *et al.* 2007). The inner grey track depicts the GC content of the genome.
 
@@ -55,11 +57,11 @@ Author: [Shaun D. Jackman, Rene L. Warren, Ewan A. Gibb, Benjamin P. Vandervalk,
 | Largest scaffold                | 123 kbp         | 1222 kbp
 | GC content                      | 38.8%           | 44.7%
 
---------------------------------------------------------------------------------
+\newpage
 
 # Mitochondrion
 
-![Figure 3](images/mt-gene-order.png)
+![Figure 3](images/mt-gene-order.png){width="11in"}
 
 **Fig. 3**---Relative order and size of genes on the scaffolds of the white spruce mitochondrial genome. Each box is proportional to the size of the gene including introns, except that genes smaller than 200 bp are shown as 200 bp. The space between genes is not to scale. An asterisk indicates that the gene name is truncated. Only scaffolds that harbor annotated genes are shown.
 
@@ -78,13 +80,13 @@ Author: [Shaun D. Jackman, Rene L. Warren, Ewan A. Gibb, Benjamin P. Vandervalk,
 
 Note: The number of distinct genes is shown in parentheses.
 
-![ABySS logo](images/abyss-logo.png)
+![ABySS logo](images/abyss-logo.png){width="11in"}
 
---------------------------------------------------------------------------------
+\newpage
 
 # Mitochondrial Gene Expression
 
-![Figure 4](images/mt-cds-heatmap.png)
+![Figure 4](images/mt-cds-heatmap.png){width="11in"}
 
 **Fig. 4**---Transcript abundances of the mitochondrial genes were quantified in three developmental tissues and five mature tissues using data from RNA-seq experiments. Heatmap of the transcript abundance of mitochondrial protein-coding genes of white spruce. Each column is a tissue sample. Each row is a gene. Each cell represents the transcript abundance of one gene in one sample. The color scale is log10(TPM+1), where TPM is transcripts per million as measured by Salmon (Patro *et al.* 2014).
 
@@ -93,6 +95,6 @@ Note: The number of distinct genes is shown in parentheses.
 + C-to-U RNA editing was observed in the majority of mitochondrial genes
 + In four genes, editing events were noted to modify ACG codons to create cryptic AUG start codons
 
-![Shaun Jackman](images/shaun-jackman.jpg)
+![Shaun Jackman](images/shaun-jackman.jpg){width="11in"}
 
 [\@sjackman](https://twitter.com/sjackman) --- <http://sjackman.ca>
